@@ -12,7 +12,6 @@
   - Continued development
   - Useful resources
 - Author
-- Acknowledgments
 
 ## Overview
 
@@ -29,7 +28,7 @@ Arkadiusz-coder / preview / resultPhoto.png
 
 ### Links
 
-Live Site URL:
+Live Site URL: https://github.com/Arkadiusz-coder/product-preview/tree/main
 
 ## My process
 
